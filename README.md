@@ -14,8 +14,8 @@ Total Features: 21
 
 ## Tools Used
 
-Python
-Pandas
+* Python
+* Pandas
 NumPy
 Matplotlib
 Seaborn
