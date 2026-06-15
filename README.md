@@ -1,18 +1,18 @@
-## IAIP
+# IAIP
 Internship projects completed as part of Interns Alpha Program.
 # Sales Data Analysis
 
-Objective
+## Objective
 
 Analyze sales data to identify trends, seasonal patterns, product performance, and generate actionable business insights.
 
-Dataset
+## Dataset
 
 Source: Kaggle Sample Superstore Dataset
 Total Records: 9,994
 Total Features: 21
 
-Tools Used
+## Tools Used
 
 Python
 Pandas
@@ -21,7 +21,7 @@ Matplotlib
 Seaborn
 Jupyter Notebook
 
-Analysis Performed
+## Analysis Performed
 
 Data Cleaning
 Feature Engineering
@@ -37,7 +37,7 @@ Loss-Making Products Analysis
 State-wise Analysis
 Shipping Mode Analysis
 
-Key Findings
+## Key Findings
 
 November and December recorded the highest sales.
 February had the lowest sales.
@@ -46,7 +46,7 @@ Consumer customers contributed the highest revenue.
 Excessive discounts negatively impacted profitability.
 Certain products consistently generated losses.
 
-Recommendations
+## Recommendations
 
 Increase inventory before Q4 to meet peak demand.
 Optimize discount strategies to improve profit margins.
@@ -54,6 +54,6 @@ Focus marketing efforts on high-profit products.
 Review pricing strategies for loss-making products.
 Strengthen operations in underperforming regions.
 
-Conclusion
+## Conclusion
 
 This project demonstrates how data analysis can uncover meaningful business insights and support data-driven decision-making to improve sales performance and profitability.
