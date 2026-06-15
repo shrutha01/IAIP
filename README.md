@@ -1,5 +1,5 @@
 # IAIP
-Internship projects completed as part of Interns Alpha Program.
+Internship project completed as part of Intern Alpha Program.
 # Sales Data Analysis
 
 ## Objective
