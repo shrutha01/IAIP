@@ -16,43 +16,31 @@ Total Features: 21
 
 * Python
 * Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
+* NumPy
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
 
 ## Analysis Performed
 
-Data Cleaning
-Feature Engineering
-Monthly Sales Trend Analysis
-Seasonal Analysis
-Top Products Analysis
-Category Profit Analysis
-Regional Analysis
-Customer Segment Analysis
-Discount vs Profit Analysis
-Top Profitable Products Analysis
-Loss-Making Products Analysis
-State-wise Analysis
-Shipping Mode Analysis
+Data Cleaning, Feature Engineering, Monthly Sales Trend Analysis, Seasonal Analysis, Top Products Analysis, Category Profit Analysis, Regional Analysis, Customer Segment Analysis, Discount vs Profit Analysis, Top Profitable Products Analysis, Loss-Making Products Analysis, State-wise Analysis, Shipping Mode Analysis
 
 ## Key Findings
 
-November and December recorded the highest sales.
-February had the lowest sales.
-Technology products generated significant profits.
-Consumer customers contributed the highest revenue.
-Excessive discounts negatively impacted profitability.
-Certain products consistently generated losses.
+* November and December recorded the highest sales.
+* February had the lowest sales.
+* Technology products generated significant profits.
+* Consumer customers contributed the highest revenue.
+* Excessive discounts negatively impacted profitability.
+* Certain products consistently generated losses.
 
 ## Recommendations
 
-Increase inventory before Q4 to meet peak demand.
-Optimize discount strategies to improve profit margins.
-Focus marketing efforts on high-profit products.
-Review pricing strategies for loss-making products.
-Strengthen operations in underperforming regions.
+* Increase inventory before Q4 to meet peak demand.
+* Optimize discount strategies to improve profit margins.
+* Focus marketing efforts on high-profit products.
+* Review pricing strategies for loss-making products.
+* Strengthen operations in underperforming regions.
 
 ## Conclusion
 
